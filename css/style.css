@@ -1,0 +1,73 @@
+body{
+    background-color: #0085CA;
+    margin-top: 56px;
+}
+
+h1{
+    color: white;
+    padding-top: 2%;
+}
+li{
+    color: #0085CA;
+}
+.card{
+    margin-bottom: 2%;
+    margin-top: 2%;
+}
+
+.card-footer{
+    background-color: white;
+}
+
+#loginButton{
+    margin-top: 5%;
+}
+
+.btn-outline-primary{
+    color: #0085CA;
+    border-color: #0085CA;
+}
+
+.btn-outline-primary:hover{
+	color: white;
+    border-color: #0085CA;
+    background-color: #0085CA;
+}
+
+.login{
+    border: 8px solid rgba(0,0,0,0.1);
+    background-color: rgba(0,0,0,0.1);
+    width: 50%;
+    padding: 2% 2% 2% 2%;
+    margin: auto;
+    margin-top: 10%;
+    color: white;
+}
+
+.admin{
+    margin-top: 2%;
+    margin-bottom: 2%;
+    border: 8px solid rgba(0,0,0,0.1);
+    background-color: rgba(0,0,0,0.1);
+    padding: 2% 2% 2% 2%;
+    color: white;
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.admin div{
+    padding-left: 2%;
+}
+
+#emptyForm{
+    padding-top: 2%;
+}
+
+#emptyCart, #notAdmin{
+    color: white;
+}
+
+#updateHeader{
+    padding-top: 2%;
+}
